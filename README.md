@@ -1,5 +1,4 @@
 Yoooo
-what the fuck is up
 its me
 AtomicRecall
 best counter strike and slash or computer science person of all time here
