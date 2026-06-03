@@ -23,7 +23,7 @@ _Status: Early in development_
 
 ---
 
-## 🔐 Cipher
+## 🔐 Cipher Source 2
 Counter-Strike 2 statistics website to help better understand a user's opponents with an emphasis on:
 - API interaction with the FACEIT Data API ecosystem and third-party statistics services.
 - Fast, readable, and information-dense UI design over unnecessary visual clutter.
@@ -31,3 +31,17 @@ Counter-Strike 2 statistics website to help better understand a user's opponents
 - Designing systems that prioritize usability, responsiveness, and rapid access to meaningful data.
 - Experimenting with AI-assisted workflows for development acceleration and data interpretation.
 - Competitive analysis tooling intended to improve player preparation and decision-making.
+
+_Status: Early in Production_
+🔗 https://cipher.onl
+
+# Finished Development Projects
+
+## CPU Scheduler Simulation
+Custom created CPU scheduler with fake scheduled tasks using java.
+
+## Tetris Helper
+Third Party website to compare two players on a popular tetris platform named jstris.
+
+## Cipher
+The original version of Cipher that uses minimal addons. 
