@@ -44,4 +44,4 @@ Custom created CPU scheduler with fake scheduled tasks using java.
 Third Party website to compare two players on a popular tetris platform named jstris.
 
 ## Cipher
-The original version of Cipher that uses minimal addons. 
+The original version of Cipher that uses minimal addons with manual DOM handling.
